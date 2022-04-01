@@ -4,7 +4,7 @@
 
 Submitted by: Cedric Kwong
 
-Time spent: 5.5 hours spent in total
+Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/succulent-eastern-crate 
 
