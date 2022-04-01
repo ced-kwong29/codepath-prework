@@ -38,9 +38,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/93562351/160945147-cb927c50-1aef-4b9c-ae96-1fcb087e8065.gif)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/93562351/160945104-04815440-073f-47aa-b573-e9f410a9992e.gif)
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/93562351/160945165-cffd1a83-e2c6-4611-97b9-106fc4ef1145.gif)
+![](https://user-images.githubusercontent.com/93562351/160945147-cb927c50-1aef-4b9c-ae96-1fcb087e8065.gif)
+![](https://user-images.githubusercontent.com/93562351/160945104-04815440-073f-47aa-b573-e9f410a9992e.gif)
+![](https://user-images.githubusercontent.com/93562351/160945165-cffd1a83-e2c6-4611-97b9-106fc4ef1145.gif)
 
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
@@ -66,7 +66,7 @@ With more time to work on the project, I would spend it on learning more about t
 
 ## Interview Recording URL Link
 
-https://drive.google.com/file/d/1VZKmkXRAVRxhoi3HtxGJaxCYCbFB3FK6/view?usp=sharing
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1VZKmkXRAVRxhoi3HtxGJaxCYCbFB3FK6/view?usp=sharing)
 
 
 ## License
